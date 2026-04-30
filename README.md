@@ -23,7 +23,7 @@ Reverse-engineered a home equity investment product to understand how product de
 A lightweight system for discovering and curating records using metadata and APIs.
 
 → https://recordlibrary.fm/  
-→ https://github.com/JoeMCao/recordlibrary
+→ https://github.com/JoeMCao/music-library
 
 ---
 
@@ -39,7 +39,7 @@ Designed as an operating system, not a habit tracker:
 Focus:
 Consistency is not motivated — it is made visible.
 
-→ https://github.com/JoeMCao/daily-code
+→ https://github.com/JoeMCao/the-daily-code
 
 ---
 
