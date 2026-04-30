@@ -38,7 +38,7 @@ Designed as an operating system, not a habit tracker:
 Focus:
 Consistency is not motivated — it is made visible.
 
-Status: Private (actively used and iterated)
+→ https://github.com/JoeMCao/daily-code
 
 ---
 
