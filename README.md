@@ -14,7 +14,7 @@ My work sits at the intersection of:
 ### HomeTap Analysis
 Reverse-engineered a home equity investment product to understand how product design shapes returns, user behavior, and capital allocation.
 
-→ https://github.com/JoeMCao/hometap
+→ https://github.com/JoeMCao/hometap  
 → https://joemcao.github.io/hometap/calculator-report.html
 
 ---
