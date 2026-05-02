@@ -1,60 +1,92 @@
 # Jose Cao
 
-I build AI-driven decision systems — translating models, data, and messy workflows into products that support real-world decisions.
+I design AI-driven decision systems — translating models, data, and messy workflows into products that support real-world decisions.
 
-My work sits at the intersection of:
-- Financial decision-making: risk, pricing, capital allocation
-- System design: workflows, APIs, reliability
-- Product judgment: incentives, behavior, measurable outcomes
+My work focuses on making AI **usable, reliable, and trusted** in environments where:
+- decisions are high-stakes  
+- outcomes are measurable  
+- and product design shapes behavior and economics  
 
 ---
 
-## Selected Projects
+## ⚙️ Selected Projects
 
-### HomeTap Analysis
-Reverse-engineered a home equity investment product to understand how product design shapes returns, user behavior, and capital allocation.
+### 🧠 HomeTap Analysis  
+Reverse-engineered a home equity investment product to understand how product design drives returns, user behavior, and capital allocation.
+
+Key insight:  
+Returns are not driven by the model — they are driven by **timing, geography, and product constraints**.
 
 → https://github.com/JoeMCao/hometap  
-→ https://joemcao.github.io/hometap/calculator-report.html
+→ https://joemcao.github.io/hometap/calculator-report.html  
 
 ---
 
-### RecordLibrary
+### 🎧 RecordLibrary  
 A lightweight system for discovering and curating records using metadata and APIs.
 
+Focus:
+- Taste-driven discovery over algorithmic feeds  
+- Structured metadata + simple recommendation logic  
+- Fast, low-friction browsing experience  
+
 → https://recordlibrary.fm/  
-→ https://github.com/JoeMCao/music-library
+→ https://github.com/JoeMCao/music-library  
 
 ---
 
-### The Daily Code
-A minimal daily system for discipline without dashboards, streaks, or productivity theater.
+### 🏋️ Training System (Custom GPT + Data Layer)  
+Designed a workout system combining a conversational interface (GPT) with a structured data backend.
 
-Designed as an operating system, not a habit tracker:
-- No accounts
-- No feeds
-- No metrics to optimize
-- Just a visible record of whether you showed up
+Architecture:
+- GPT handles interaction, coaching, and adaptive logic  
+- Database persists all structured data (sets, reps, progression)  
+- Clear separation between:
+  - **Unstructured reasoning (LLM)**
+  - **Structured state (DB)**  
 
 Focus:
+- Reliability over novelty — no loss of workout history  
+- Progressive overload driven by real data  
+- System designed for long-term consistency  
+
+Principle:  
+LLMs are not stateful systems. **Structured data belongs in a database.**
+
+---
+
+### 📓 The Daily Code  
+A minimal system for discipline without dashboards, streaks, or productivity theater.
+
+Philosophy:
+- No accounts  
+- No feeds  
+- No optimization loops  
+- Just a visible record of whether you showed up  
+
+Focus:  
 Consistency is not motivated — it is made visible.
 
-→ https://github.com/JoeMCao/the-daily-code
+→ https://github.com/JoeMCao/the-daily-code  
 
 ---
 
-## Approach
+## 🧩 Approach
 
-I focus on systems where:
-- decisions are high-stakes
-- outcomes are measurable
-- and product design directly shapes behavior and economics
+I build systems where:
 
-I care less about building models and more about making them usable, trusted, and deployable in real environments.
+- **Models inform decisions — but do not make them blindly**  
+- **Workflows enforce trust, guardrails, and reliability**  
+- **Product design shapes incentives and outcomes**  
+
+I care less about model accuracy in isolation, and more about:
+- how systems behave in production  
+- how users trust and interact with them  
+- and how decisions translate into real-world impact  
 
 ---
 
-## Contact
+## 📬 Contact
 
-- LinkedIn: https://linkedin.com/in/josemcao
-- GitHub: https://github.com/JoeMCao
+- LinkedIn: https://linkedin.com/in/josemcao  
+- GitHub: https://github.com/JoeMCao  
