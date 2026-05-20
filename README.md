@@ -33,6 +33,8 @@ Focus:
 → https://recordlibrary.fm/  
 → https://github.com/JoeMCao/music-library  
 
+→ https://www.linkedin.com/posts/josemcao_when-i-was-a-kid-it-was-normal-to-see-my-ugcPost-7394816795192254465-NfMA
+
 ---
 
 ### 🏋️ Training System (Custom GPT + Data Layer)  
