@@ -22,18 +22,18 @@ Returns are not driven by the model — they are driven by **timing, geography, 
 
 ---
 
-### 🎧 RecordLibrary  
-A lightweight system for discovering and curating records using metadata and APIs.
+### 🎧 Record Library
+
+A personal product experiment for collecting full albums, revisiting old favorites, and discovering music through human taste rather than endless feeds.
 
 Focus:
-- Taste-driven discovery over algorithmic feeds  
-- Structured metadata + simple recommendation logic  
-- Fast, low-friction browsing experience  
 
-→ https://recordlibrary.fm/  
-→ https://github.com/JoeMCao/music-library  
+- Personal record collections as visual archives of taste
+- Discovery through recommendations and carefully sourced editorial collections
+- A fast, intentionally data-light browsing experience
 
-→ https://www.linkedin.com/posts/josemcao_when-i-was-a-kid-it-was-normal-to-see-my-ugcPost-7394816795192254465-NfMA
+→ [Explore Record Library](https://recordlibrary.fm/)  
+→ [Read the story behind it](https://www.linkedin.com/posts/josemcao_when-i-was-a-kid-it-was-normal-to-see-my-ugcPost-7394816795192254465-NfMA)
 
 ---
 
